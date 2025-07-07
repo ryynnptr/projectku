@@ -3,4 +3,5 @@ RENCANA PROJECT RIYAN
 - Membuat web yang sering ada di industri
  * web absensi
  * web menghitung pemasukan dan pengeluaran
+ * web yang terintegrasi dengan IOT
 - Membuat web kekinian
